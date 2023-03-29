@@ -1,3 +1,8 @@
+# 测试
+UE4.27,删除.sln,右键Generate...,打开OK:
+![图片](https://user-images.githubusercontent.com/42707880/228543883-ee3c7557-09b8-4017-bd98-1cd4780e73f9.png)
+
+
 # UE4_EditorExtension
 这个工程包含了如下功能：
 ### Easy-To-Use MenuExtension 菜单栏轻松扩展
